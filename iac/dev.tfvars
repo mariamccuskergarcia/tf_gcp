@@ -1,0 +1,6 @@
+gcp_project_id = "ce06-training"
+gcp_region = "europe-west2"
+python_source = "../src"
+python_runtime = "python311"
+function_name = "mmg-real-exc"
+entry_point = "hello_http"
